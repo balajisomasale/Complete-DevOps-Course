@@ -12,3 +12,4 @@ $ docker run -d --network some-network --name some-mongo \
 
 Edit .env as per git repository:
 
+![image](https://github.com/balajisomasale/Complete-DevOps-Course/assets/35003840/195da511-e702-4606-ab64-1e480c10864c)
